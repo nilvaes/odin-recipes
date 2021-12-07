@@ -1,0 +1,9 @@
+strong {
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+ul li {
+    margin: 5px;
+    font-family:sans-serif;
+}

@@ -1,0 +1,53 @@
+
+
+h1 {
+    color:teal;
+    text-align: center;
+    font-weight: 700;
+    font-family: Courier;
+    margin-left: 26px;
+
+
+}
+
+ul li {
+    color: blue;
+    background-color: lightblue;
+    text-align: center;
+    
+    padding-right: 40px;
+    padding-left: 40px;
+    border: 60px;
+    margin: 20px;
+
+}
+
+ul li a {
+    color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.homer {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+html body ul {
+    padding-right: 145px;
+    padding-left: 145px;
+
+}
+
+.ger {
+    background-color:violet;
+}
+
+#übung {
+    color:black;
+}
